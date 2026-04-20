@@ -31,4 +31,4 @@ logic. Built with Python & SQL.
 
 ---
 
-*Money always leaves a trail — the goal is to understand the story it tells.* there 👋
+*Money always leaves a trail — the goal is to understand the story it tells.*
